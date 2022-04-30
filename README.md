@@ -3,9 +3,8 @@
 <h2>Eai, tudo bem? Seja bem vindo ao meu perfil 🤖🤖</h2>
 </div>
 <div align="center"> <h2> Estou aprendendo: </h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50em"/>
+  
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img heigth="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img width="50em" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
           
           
