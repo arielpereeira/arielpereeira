@@ -7,19 +7,18 @@
 </div>
 <div>
   <p>
-    Meu nome é Ariel, tenho 25 anos e moro em Porto Alegre.<br>
-    Atualmente estudante de Análise e Desenvolvimento de Sistemas, estou me empenhando em aprender linguagens voltada para área de Análise de dados.
+    Meu nome é Ariel e moro em Porto Alegre.<br>
+    Analista de Redes e de vez em quando brincamos no desenvolvimento de sistemas kkkkk
+    ZABBIX
+    GRAFANA
+    MTCNA
+    EHE
+
     
   </p>
 </div>
 
-<h2> O que estou estudando:</h2>
-<div align="left" gap="15px"> 
-  <img width="50em" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img width="50em" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  <img height="50em" width="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
-</div> <br>
+
       
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arielpereeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
