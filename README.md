@@ -8,11 +8,11 @@
 <div>
   <p>
     Meu nome é Ariel e moro em Porto Alegre.<br>
-    Analista de Redes e de vez em quando brincamos no desenvolvimento de sistemas kkkkk
-    ZABBIX
-    GRAFANA
-    MTCNA
-    EHE
+    Analista de Redes e de vez em quando brincamos no desenvolvimento de sistemas kkkkk<br>
+    ZABBIX<br>
+    GRAFANA<br>
+    MTCNA<br>
+    EHE<br>
 
     
   </p>
